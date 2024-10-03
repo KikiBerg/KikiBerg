@@ -14,8 +14,8 @@ Gradually, I began to understand the possibilities of Python programming in the 
 - ⚡ My key strengths: **determined - quick learner - problem solver**
 
 ### Goals & Contact
-- 🎯 In the long-term, I would like to make the leap and move from hobby programmer to full-time developer. 
-- 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/angelikivlachou/)
+- 📌 In the long run, I aspire to transition from casual coder to professional software engineer.
+- ✉ Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/angelikivlachou/)
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
