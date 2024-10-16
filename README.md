@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angeliki</h1>
+<h2 align="center">Hi 👋, I'm Angeliki</h2>
 <h3 align="center">A fullstack software development student based in Stockholm 🇸🇪</h3>
 
 I hold a MSc in Sustainable Urban Planning from KTH, have a keen interest in data analysis and a passion for working with technology, software, and innovative concepts.
