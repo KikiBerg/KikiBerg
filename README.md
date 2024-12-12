@@ -27,6 +27,7 @@ Gradually, I began to understand the possibilities of Python programming in the 
 
 | Project title | Tech used | Github repo | Description | 
 | ----------- | ----------- | ----------- | ----------- |
+| **LMS** | C#, .NET Core, Entity Framework, React, TypeScript, Vite, SQL Server| [LMS](https://github.com/KikiBerg/LMS/tree/test) | A fictional LMS web platform for simplifying educational administration. Provides role-based access for users, such as administrators, teachers, and students. |
 | **Seed & Sprout** | Python, Django, Stripe, AWS S3 & IAM, Gmail API, Bootstrap, JScript, Heroku | [Seed & Sprout](https://github.com/KikiBerg/pp5-ecommerce) | A fictional B2C e-commerce web platform for seeds and garden tools. The web application enables user roles, authentication, full CRUD for certain functions, and secure interaction with a central database. |
 | **Urban Biodiversity Platform** | Python, Django, Cloudinary API, Whitenoise, Bootstrap, JScript, Heroku | [Urban Biodiversity Platform](https://github.com/KikiBerg/urban-biodiversity-platform) | A full-stack Django blog application. The web application enables authentication and implements full CRUD functionality for certain features, as well as secure interaction with a central database. |
 | **Sparkle Ai** | React JS, Bootstrap, Django REST Framework, Google Places API, OpenAI API, Leaflet | [Sparkle Ai](https://github.com/KikiBerg/cupidai_kiki) | A Hackathon project built with Django. It is a web application designed to help users plan memorable dates with their partners. |
